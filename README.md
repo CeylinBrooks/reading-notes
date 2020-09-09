@@ -1,3 +1,7 @@
 # reading-notes
 ## These are my reading notes
-### This is less important
+
+## Growth mindset is living in a world of *questions*!
+- Learning from failiures 
+- Remembering that nothing is easy at first
+- I don't how to.. **yet**!
