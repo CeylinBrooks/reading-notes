@@ -12,8 +12,12 @@
 
 ## These are my reading notes
 
-### This is where my notes will soon be reflected
+* Markdown is the tool that developers to style a website.
+* It can be used to make words bold or italic, adding images and creating lists 
 
-* note
-* note 
-* note
+
+### Mark Cheat Sheet
+
+* The mark down cheat sheat is very useful for the symbols that may not be as easy to remember.
+* 
+
