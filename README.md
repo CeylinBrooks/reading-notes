@@ -1,5 +1,5 @@
 # reading-notes
-## These are my reading notes
+
 
 ## Growth mindset is living in a world of *questions*!
 - Learning from failiures 
@@ -8,3 +8,12 @@
 
 
 ### My name is Ceylin. I enjoy writing poems, cooking and reading books. [Git Hub](https://github.com/CeylinBrooks)
+
+
+## These are my reading notes
+
+### This is where my notes will soon be reflected
+
+* note
+* note 
+* note
