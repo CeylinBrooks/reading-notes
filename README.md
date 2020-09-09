@@ -7,4 +7,4 @@
 - I don't how to.. **yet**!
 
 
-### My name is Ceylin. I enjoy writing poems, cooking and reading books. [Git Hub] (https://github.com/CeylinBrooks)
+### My name is Ceylin. I enjoy writing poems, cooking and reading books. [Git Hub](https://github.com/CeylinBrooks)
