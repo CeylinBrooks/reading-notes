@@ -18,15 +18,15 @@
 
 ### Markdown Cheat Sheet
 
-* The mark down cheat sheat is very useful for the symbols that may not be as easy to remember.
-*word* to italisize
-**word** for bold text
-ls to display a list 
-cd to create a directory
-reference symbols that can be used or an unoredered list
-![alt text](image.jpg) to display an image
-~~strikethrough text~~
-`code`
++ * The mark down cheat sheat is very useful for the symbols that may not be as easy to remember.
++ *word* to italisize
++ **word** for bold text
++ ls to display a list 
++ cd to create a directory
++ reference symbols that can be used or an unoredered list
++ ![alt text](image.jpg) to display an image
++ ~~strikethrough text~~
++ `code`
 
 
 
