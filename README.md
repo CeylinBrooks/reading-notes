@@ -16,7 +16,7 @@
 * It can be used to make words bold or italic, adding images and creating lists 
 
 
-### Mark Cheat Sheet
+### Markdown Cheat Sheet
 
 * The mark down cheat sheat is very useful for the symbols that may not be as easy to remember.
 * 
