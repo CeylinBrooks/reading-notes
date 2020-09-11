@@ -18,3 +18,4 @@ git command --help
 man git-command
 
 
+For file pushing; git push origin master
