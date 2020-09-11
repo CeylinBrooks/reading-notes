@@ -1,0 +1,20 @@
+# Git Tutorial
+
+-A Distributed Version Control systems (DVCS) addresses the major vulnerability of the CVS: the server as a single point of failure.
+-Committed
+
+Data is securely stored in a local database
+
+Modified
+
+File has been changed but not committed to the database
+
+### To get help
+
+git help command
+
+git command --help
+
+man git-command
+
+
