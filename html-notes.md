@@ -3,7 +3,7 @@
 - HTML / Markup
 - Semantics
 - Wireframe: a simple sketch of the key info that needs to go on each page
-- Personas
+- Personas: target users
 - Meta
 - Content
 - Element: a specific part of the website
