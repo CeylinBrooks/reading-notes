@@ -13,5 +13,6 @@
 - [class 1 reading notes](class1.md)
 - [the coders computer](the-coders-computer.md)
 - [Git Tutorial Notes](gitintro.md)
+- [HTML notes](html-notes.md)
 
 
