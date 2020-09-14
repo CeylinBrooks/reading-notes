@@ -16,5 +16,4 @@
 - [HTML notes](html-notes.md)
 - [Structure Web Pages w/ HTML notes](Chapter-1-17-18-notes.md)
 - [Design web pages with CSS](chapters-10-11.md)
-
-
+- [Computer Architecture and Logic](how-computers-work.md)
