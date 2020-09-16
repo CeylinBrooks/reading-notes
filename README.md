@@ -19,3 +19,4 @@
 - [Computer Architecture and Logic](how-computers-work.md)
 - [Programming with JavaScript](Programming-with-JavaScript.md)
 - [Dynamic Web Pages](Dynamic-web-pages.md)
+- [Operators and Loops](operators-and-loops.md)
